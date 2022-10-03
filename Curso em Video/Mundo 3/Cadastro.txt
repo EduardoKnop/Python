@@ -1,0 +1,4 @@
+[1;34m             NOME                IDADE   [m
+[1;36mJosé                            35 anos[m
+[1;36mGustavo                         41 anos[m
+[1;36mMaria                           85 anos[m

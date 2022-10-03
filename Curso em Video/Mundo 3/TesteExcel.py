@@ -1,0 +1,7 @@
+# fileW = open('Teste.txt', mode='wt+')
+# fileW.close()
+# fileW = open('Teste.txt', mode='a')
+# fileW.write('Batata')
+fileR = open('Teste.xlsx', mode='r')
+print(fileR.read())
+fileR.close()
